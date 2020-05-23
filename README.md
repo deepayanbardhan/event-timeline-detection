@@ -2,8 +2,8 @@
 
 
 # Description
-This project aims to understand cause and effect relation between a pair of sentences. 
-For example: 1. The ball hit his head. 
+This project aims to understand cause and effect relation between a pair of sentences. \
+For example: 1. The ball hit his head. \
              2. He started crying in pain.
              
 In the above pair of sentences, sentence 2 makes sense only if sentence 1 has occurred. So the correct order of these events coccurring woud be - ball hitting his head followed by him crying in pain.
