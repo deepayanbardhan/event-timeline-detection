@@ -1,6 +1,6 @@
 # Event Timeline Detection
 
-[!Python]
+[!Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 
 # Description
 This project aims to understand cause and effect relation between a pair of sentences. 
